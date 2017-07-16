@@ -1,0 +1,8 @@
+addpath('/home/ig/neef/MFiles/AM/')
+addpath('/home/ig/neef/MFiles/DART/')
+addpath('/home/ig/neef/MFiles/utilities/cm_and_cb_utilities/')
+addpath('/home/ig/neef/MFiles/utilities/')
+addpath('/home/ig/neef/MFiles/netcdf/mexcdf/snctools/')
+addpath('/home/ig/neef/MFiles/netcdf/mexcdf/mexnc/','-BEGIN')
+addpath('/home/ig/neef/DART/trunk/matlab')
+addpath('/home/ig/neef/MFiles/Colors/')
